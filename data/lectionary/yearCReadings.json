@@ -1,0 +1,865 @@
+[
+  {
+    "key": "firstSundayInAdvent",
+    "readingDefault": [
+      "Zechariah 14:1-9",
+      "Psalm 50",
+      "1 Thessalonians 3:6-13",
+      "Luke 21:25-33"
+    ],
+    "readingAlternate": [
+      "Zechariah 14:3-9",
+      "Psalm 50:1-6",
+      "1 Thessalonians 3:6-13",
+      "Luke 21:25-33"
+    ]
+  },
+  {
+    "key": "secondSundayInAdvent",
+    "readingDefault": [
+      "Malachi 3:1-5",
+      "Psalm 126",
+      "1 Corinthians 4:1-21",
+      "Luke 3:1-6"
+    ],
+    "readingAlternate": [
+      "Malachi 3:1-5",
+      "Psalm 126",
+      "1 Corinthians 4:8-21",
+      "Luke 3:1-6"
+    ]
+  },
+  {
+    "key": "thirdSundayInAdvent",
+    "reading": [
+      "Zephaniah 3:14-20",
+      "Psalm 85",
+      "Philippians 4:4-9",
+      "Luke 3:7-20"
+    ]
+  },
+  {
+    "key": "fourthSundayInAdvent",
+    "reading": [
+      "Micah 5:2-5",
+      "Psalm 80:1-7",
+      "Hebrews 10:1-10",
+      "Luke 1:39-56"
+    ]
+  },
+  {
+    "key": "christmasDay",
+    "readingDefault": [
+      "Isaiah 9:1-7",
+      "Psalm 96",
+      "Titus 2:11-14",
+      "Luke 2:1-20"
+    ],
+    "readingAlternate": [
+      "Isaiah 9:1-7",
+      "Psalm 96",
+      "Titus 2:11-14",
+      "Luke 2:1-14"
+    ]
+  },
+  {
+    "key": "christmasDaySecondService",
+    "readingDefault": [
+      "Isaiah 62:6-12",
+      "Psalm 97",
+      "Titus 3:4-7",
+      "Luke 2:1-20"
+    ],
+    "readingAlternate": [
+      "Isaiah 62:6-12",
+      "Psalm 97",
+      "Titus 3:4-7",
+      "Luke 2:15-20"
+    ]
+  },
+  {
+    "key": "christmasDayThirdService",
+    "reading": ["Isaiah 52:7-12", "Psalm 98", "Hebrews 1:1-12", "John 1:1-18"]
+  },
+  {
+    "key": "firstSundayOfChristmas",
+    "reading": [
+      "Isaiah 61:10-62:5",
+      "Psalm 147:12-20",
+      "Galatians 3:23-4:7",
+      "John 1:1-18"
+    ]
+  },
+  {
+    "key": "circumcisionAndHolyName",
+    "reading": ["Exodus 34:1-9", "Psalm 8", "Romans 1:1-7", "Luke 2:15-21"]
+  },
+  {
+    "key": "secondSundayOfChristmas",
+    "readingDefault": [
+      "Jeremiah 31:7-14",
+      "Psalm 84",
+      "Ephesians 1:3-14",
+      "Luke 2:22-40"
+    ],
+    "readingAlternate": [
+      "Jeremiah 31:7-14",
+      "Psalm 84",
+      "Ephesians 1:3-14",
+      "Matthew 2:1-12"
+    ]
+  },
+  {
+    "key": "epiphany",
+    "reading": [
+      "Isaiah 60:1-9",
+      "Psalm 72:1-11",
+      "Ephesians 3:1-13",
+      "Matthew 2:1-12"
+    ]
+  },
+  {
+    "key": "firstSundayOfEpiphany",
+    "readingDefault": [
+      "Isaiah 42:1-9",
+      "Psalm 89:1-29",
+      "Acts 10:34-38",
+      "Luke 3:15-22"
+    ],
+    "readingAlternate": [
+      "Isaiah 42:1-9",
+      "Psalm 89:20-29",
+      "Acts 10:34-38",
+      "Luke 3:15-22"
+    ]
+  },
+  {
+    "key": "secondSundayOfEpiphany",
+    "reading": [
+      "Isaiah 62:1-5",
+      "Psalm 96",
+      "1 Corinthians 12:1-11",
+      "John 2:1-11"
+    ]
+  },
+  {
+    "key": "thirdSundayOfEpiphany",
+    "reading": [
+      "Nehemiah 8:1-12",
+      "Psalm 113",
+      "1 Corinthians 12:12-27",
+      "Luke 4:14-21"
+    ]
+  },
+  {
+    "key": "fourthSundayOfEpiphany",
+    "reading": [
+      "Jeremiah 1:4-10",
+      "Psalm 71:11-20",
+      "1 Corinthians 14:12-25",
+      "Luke 4:21-32"
+    ]
+  },
+  {
+    "key": "presentationOfChrist",
+    "reading": ["Malachi 3:1-4", "Psalm 84", "Hebrews 2:14-18", "Luke 2:22-40"]
+  },
+  {
+    "key": "fifthSundayOfEpiphany",
+    "reading": [
+      "Judges 6:11-24",
+      "Psalm 85",
+      "1 Corinthians 15:1-11",
+      "Luke 5:1-11"
+    ]
+  },
+  {
+    "key": "sixthSundayOfEpiphany",
+    "reading": [
+      "Jeremiah 17:5-10",
+      "Psalm 1",
+      "1 Corinthians 15:12-20",
+      "Luke 6:17-26"
+    ]
+  },
+  {
+    "key": "seventhSundayOfEpiphany",
+    "readingDefault": [
+      "Genesis 45:3-11,21-28",
+      "Psalm 37:1-17",
+      "1 Corinthians 15:35-49",
+      "Luke 6:27-38"
+    ],
+    "readingAlternate": [
+      "Genesis 45:3-11",
+      "Psalm 37:8-17",
+      "1 Corinthians 15:35-49",
+      "Luke 6:27-38"
+    ]
+  },
+  {
+    "key": "eighthSundayOfEpiphany",
+    "reading": [
+      "Jeremiah 7:1-15",
+      "Psalm 92",
+      "1 Corinthians 15:50-58",
+      "Luke 6:39-49"
+    ]
+  },
+  {
+    "key": "worldMissionSunday",
+    "reading": ["Isaiah 61:1-4", "Psalm 96", "Romans 10:9-17", "John 20:19-31"]
+  },
+  {
+    "key": "lastSundayOfEpiphany",
+    "reading": [
+      "Exodus 34:29-35",
+      "Psalm 99",
+      "1 Corinthians 12:27—13:13",
+      "Luke 9:28-36"
+    ]
+  },
+  {
+    "key": "ashWednesday",
+    "readingDefault": [
+      "Joel 2:1-2,12-17",
+      "Psalm 103",
+      "2 Corinthians 5:20-6:10",
+      "Matthew 6:1-6,16-21"
+    ],
+    "readingAlternate1": [
+      "Joel 2:1-2,12-17",
+      "Psalm 103:8-14",
+      "2 Corinthians 5:20-6:10",
+      "Matthew 6:1-6,16-21"
+    ],
+    "readingAlternate2": [
+      "Isaiah 58:1-12",
+      "Psalm 103",
+      "2 Corinthians 5:20-6:10",
+      "Matthew 6:1-6,16-21"
+    ],
+    "readingAlternate3": [
+      "Isaiah 58:1-12",
+      "Psalm 103:8-14",
+      "2 Corinthians 5:20-6:10",
+      "Matthew 6:1-6,16-21"
+    ]
+  },
+  {
+    "key": "firstSundayInLent",
+    "readingDefault": [
+      "Deuteronomy 26:1-11",
+      "Psalm 91",
+      "Romans 10:4-13",
+      "Luke 4:1-13"
+    ],
+    "readingAlternate": [
+      "Deuteronomy 26:5-11",
+      "Psalm 91:9-16",
+      "Romans 10:4-13",
+      "Luke 4:1-13"
+    ]
+  },
+  {
+    "key": "secondSundayInLent",
+    "readingDefault": [
+      "Genesis 15:1-18",
+      "Psalm 27",
+      "Philippians 3:17-4:1",
+      "Luke 13:22-35"
+    ],
+    "readingAlternate": [
+      "Genesis 15:1-18",
+      "Psalm 27:9-17",
+      "Philippians 3:17-4:1",
+      "Luke 13:31-35"
+    ]
+  },
+  {
+    "key": "thirdSundayInLent",
+    "readingDefault": [
+      "Exodus 3:1-15",
+      "Psalm 103",
+      "1 Corinthians 10:1-13",
+      "Luke 13:1-9"
+    ],
+    "readingAlternate": [
+      "Exodus 3:1-15",
+      "Psalm 103:1-12",
+      "1 Corinthians 10:1-13",
+      "Luke 13:1-9,10-17"
+    ]
+  },
+  {
+    "key": "fourthSundayInLent",
+    "readingDefault": [
+      "Joshua 4:19-5:12",
+      "Psalm 34",
+      "2 Corinthians 5:17-21",
+      "Luke 15:11-32"
+    ],
+    "readingAlternate": [
+      "Joshua 5:1, 5:9-12",
+      "Psalm 34:1-8",
+      "2 Corinthians 5:17-21",
+      "Luke 15:11-32"
+    ]
+  },
+  {
+    "key": "fifthSundayInLent",
+    "reading": [
+      "Isaiah 43:16-21",
+      "Psalm 126",
+      "Philippians 3:7-16",
+      "Luke 20:9-19"
+    ]
+  },
+  {
+    "key": "palmSundayLiturgyOfThePalms",
+    "reading": ["Luke 19:29-40", "Psalm 118:19-29"]
+  },
+  {
+    "key": "palmSunday",
+    "readingDefault": [
+      "Isaiah 52:13-53:12",
+      "Psalm 22:1-21",
+      "Philippians 2:5-11",
+      "Luke 22:39-23:56"
+    ],
+    "readingAlternate": [
+      "Isaiah 52:13-53:12",
+      "Psalm 22:1-11",
+      "Philippians 2:5-11",
+      "Luke 23:1-49"
+    ]
+  },
+  {
+    "key": "mondayOfHolyWeek",
+    "readingDefault": [
+      "Isaiah 42:1-9",
+      "Psalm 36:5-10",
+      "Hebrews 11:39-12:3",
+      "John 12:1-11"
+    ],
+    "readingAlternate": [
+      "Isaiah 42:1-9",
+      "Psalm 36:5-10",
+      "Hebrews 11:39-12:3",
+      "Mark 14:3-9"
+    ]
+  },
+  {
+    "key": "tuesdayOfHolyWeek",
+    "readingDefault": [
+      "Isaiah 49:1-6",
+      "Psalm 71:1-11",
+      "1 Corinthians 1:18-31",
+      "John 12:37-50"
+    ],
+    "readingAlternate": [
+      "Isaiah 49:1-6",
+      "Psalm 71:1-11",
+      "1 Corinthians 1:18-31",
+      "Mark 11:15-19"
+    ]
+  },
+  {
+    "key": "wednesdayOfHolyWeek",
+    "reading": [
+      "Isaiah 50:4-9",
+      "Psalm 69:6-22",
+      "Hebrews 9:11-28",
+      "Matthew 26:1-5,14-25"
+    ]
+  },
+  {
+    "key": "maundyThursday",
+    "readingDefault": [
+      "Exodus 12:1-14",
+      "Psalm 78:15-26",
+      "1 Corinthians 11:23-34",
+      "John 13:1-15"
+    ],
+    "readingAlternateGospel": [
+      "Exodus 12:1-14",
+      "Psalm 78:15-26",
+      "1 Corinthians 11:23-34",
+      "Luke 22:14-30"
+    ]
+  },
+  {
+    "key": "goodFriday",
+    "readingDefault": [
+      "Isaiah 52:13-53:12",
+      "Psalm 22:1-21",
+      "Hebrews 10:1-25",
+      "John 18:1-19:37"
+    ],
+    "readingAlternate1": [
+      "Genesis 22:1-18",
+      "Psalm 22:1-21",
+      "Hebrews 10:1-25",
+      "John 18:1-19:37"
+    ],
+    "readingAlternate2": [
+      "Isaiah 52:13-53:12",
+      "Psalm 40:1-16",
+      "Hebrews 10:1-25",
+      "John 18:1-19:37"
+    ],
+    "readingAlternate3": [
+      "Isaiah 52:13-53:12",
+      "Psalm 69:1-22",
+      "Hebrews 10:1-25",
+      "John 18:1-19:37"
+    ]
+  },
+  {
+    "key": "holySaturday",
+    "readingDefault": [
+      "Job 14:1-17",
+      "Psalm 130",
+      "1 Peter 4:1-8",
+      "Matthew 27:57-66"
+    ],
+    "readingAlternate1": [
+      "Job 14:1-17",
+      "Psalm 130",
+      "1 Peter 4:1-8",
+      "John 19:38-42"
+    ],
+    "readingAlternate2": [
+      "Job 14:1-17",
+      "Psalm 31:1-6",
+      "1 Peter 4:1-8",
+      "Matthew 27:57-66"
+    ]
+  },
+  {
+    "key": "greatVigilOfEaster",
+    "reading": [
+      "Genesis 1:1-2:3",
+      "Genesis 3",
+      "Genesis 7:1-5,11-18;8:6-20;9:8-13",
+      "Genesis 22:1-18",
+      "Exodus 14:10-15:1",
+      "Isaiah 4:2-6",
+      "Isaiah 55:1-11",
+      "Ezekiel 36:24-28",
+      "Ezekiel 37:1-14",
+      "Daniel 3:1-28",
+      "Jonah 1:1-2:10",
+      "Zephaniah 3:12-20",
+      "Romans 6:3-11",
+      "Matthew 28:1-10"
+    ]
+  },
+  {
+    "key": "easterDayEarly",
+    "reading": ["Psalm 114", "Romans 6:3-11", "Matthew 28:1-10"]
+  },
+  {
+    "key": "easterDayPrincipal",
+    "readingDefault": [
+      "Acts 10:34-43",
+      "Psalm 118:14-24",
+      "Colossians 3:1-4",
+      "Luke 24:1-12"
+    ],
+    "readingAlternate1": [
+      "Isaiah 51:9-11",
+      "Psalm 118:14-24",
+      "Colossians 3:1-4",
+      "Luke 24:1-12"
+    ]
+  },
+  {
+    "key": "easterDayEvening",
+    "reading": [
+      "Daniel 12:1-3",
+      "Psalm 136",
+      "1 Corinthians 5:6-8",
+      "Luke 24:13-35"
+    ]
+  },
+  {
+    "key": "mondayOfEasterWeek",
+    "reading": ["Acts 2:14,22-32", "Psalm 16", "Matthew 28:9-15"]
+  },
+  {
+    "key": "tuesdayOfEasterWeek",
+    "reading": ["Acts 2:14,36-41", "Psalm 33:17-21", "John 20:11-18"]
+  },
+  {
+    "key": "wednesdayOfEasterWeek",
+    "reading": ["Acts 3:1-10", "Psalm 105:1-8", "Luke 24:13-35"]
+  },
+  {
+    "key": "thursdayOfEasterWeek",
+    "reading": ["Acts 3:11-26", "Psalm 8", "Luke 24:36-49"]
+  },
+  {
+    "key": "fridayOfEasterWeek",
+    "reading": ["1 Peter 1:3-9", "Psalm 116:1-9", "John 21:1-14"]
+  },
+  {
+    "key": "saturdayOfEasterWeek",
+    "reading": ["Acts 4:1-22", "Psalm 118:14-18", "Mark 16:9-20"]
+  },
+  {
+    "key": "secondSundayOfEaster",
+    "reading": [
+      "Acts 5:12-20",
+      "Psalm 111",
+      "Revelation 1:1-19",
+      "John 20:19-31"
+    ]
+  },
+  {
+    "key": "thirdSundayOfEaster",
+    "readingDefault": [
+      "Acts 9:1-19",
+      "Psalm 33:1-8",
+      "Revelation 5:1-14",
+      "John 21:1-19"
+    ],
+    "readingAlternateFirstLesson": [
+      "Acts 5:27-32",
+      "Psalm 33:1-8",
+      "Revelation 5:1-14",
+      "John 21:1-19"
+    ]
+  },
+  {
+    "key": "fourthSundayOfEaster",
+    "reading": [
+      "Acts 13:14b-52",
+      "Psalm 100",
+      "Revelation 7:9-17",
+      "John 10:22-30"
+    ]
+  },
+  {
+    "key": "fifthSundayOfEaster",
+    "reading": [
+      "Acts 11:1-18",
+      "Psalm 148",
+      "Revelation 21:1-6",
+      "John 13:31-35"
+    ]
+  },
+  {
+    "key": "sixthSundayOfEaster",
+    "readingDefault": [
+      "Acts 16:9-15",
+      "Psalm 67",
+      "Revelation 21:10-22:5",
+      "John 14:23-29"
+    ],
+    "readingAlternateFirstLesson": [
+      "Ezekiel 36:24-28",
+      "Psalm 67",
+      "Revelation 21:10-22:5",
+      "John 14:23-29"
+    ]
+  },
+  {
+    "key": "ascensionDay",
+    "reading": ["Acts 1:1-14", "Psalm 47", "Ephesians 1:15-23", "Luke 24:44-53"]
+  },
+  {
+    "key": "sundayAfterAscension",
+    "reading": [
+      "Ezekiel 39:21-29",
+      "Psalm 47",
+      "1 Peter 4:7-11",
+      "John 15:26-16:15"
+    ]
+  },
+  {
+    "key": "dayOfPentecost",
+    "readingDefault": [
+      "Acts 2:1-11",
+      "Psalm 104:24-35",
+      "1 Corinthians 12:4-13",
+      "John 14:8-17"
+    ],
+    "readingAlternateFirstLesson": [
+      "Genesis 11:1-9",
+      "Psalm 104:24-35",
+      "1 Corinthians 12:4-13",
+      "John 14:8-17"
+    ]
+  },
+  {
+    "key": "trinitySunday",
+    "reading": ["Isaiah 6:1-7", "Psalm 29", "Revelation 4", "John 16:5-15"]
+  },
+  {
+    "key": "proper1",
+    "readingDefault": [
+      "Isaiah 6:1-8",
+      "Psalm 29",
+      "Romans 8:12-17",
+      "John 3:1-16"
+    ],
+    "readingAlternateFirstLesson": [
+      "Genesis 1:1-2:3",
+      "Psalm 29",
+      "Romans 8:12-17",
+      "John 3:1-16"
+    ]
+  },
+  {
+    "key": "proper2",
+    "reading": [
+      "Genesis 3:1-21",
+      "Psalm 130",
+      "2 Corinthians 4:13-5:1",
+      "Mark 3:20-35"
+    ]
+  },
+  {
+    "key": "proper3",
+    "reading": [
+      "Genesis 12:1-9",
+      "Psalm 33:1-12",
+      "Romans 4:1-5,13-17",
+      "Matthew 9:9-13"
+    ]
+  },
+  {
+    "key": "proper4",
+    "reading": [
+      "Hosea 5:15-6:6",
+      "Psalm 50:7-15",
+      "Romans 4:13-25",
+      "Matthew 9:9-13"
+    ]
+  },
+  {
+    "key": "proper5",
+    "readingDefault": [
+      "Exodus 19:1-8",
+      "Psalm 100",
+      "Romans 5:6-11",
+      "Matthew 9:35-10:15"
+    ],
+    "readingAlternateGospel": [
+      "Exodus 19:1-8",
+      "Psalm 100",
+      "Romans 5:6-11",
+      "Matthew 9:35-10:8"
+    ]
+  },
+  {
+    "key": "proper6",
+    "reading": [
+      "Exodus 19:2-8",
+      "Psalm 100",
+      "Romans 5:1-8",
+      "Matthew 9:35-10:8"
+    ]
+  },
+  {
+    "key": "proper7",
+    "reading": [
+      "Job 38:1-11",
+      "Psalm 107:1-3,23-32",
+      "2 Corinthians 5:14-21",
+      "Mark 4:35-41"
+    ]
+  },
+  {
+    "key": "proper8",
+    "reading": [
+      "Lamentations 3:22-33",
+      "Psalm 30",
+      "2 Corinthians 8:1-15",
+      "Mark 5:21-43"
+    ]
+  },
+  {
+    "key": "proper9",
+    "reading": [
+      "Ezekiel 2:1-7",
+      "Psalm 123",
+      "2 Corinthians 12:2-10",
+      "Mark 6:1-13"
+    ]
+  },
+  {
+    "key": "proper10",
+    "reading": ["Amos 7:7-17", "Psalm 85", "Ephesians 1:1-14", "Mark 6:7-13"]
+  },
+  {
+    "key": "proper11",
+    "reading": [
+      "Jeremiah 23:1-6",
+      "Psalm 23",
+      "Ephesians 2:11-22",
+      "Mark 6:30-44"
+    ]
+  },
+  {
+    "key": "proper12",
+    "reading": [
+      "2 Kings 4:38-44",
+      "Psalm 145:10-19",
+      "Ephesians 3:14-21",
+      "Mark 6:45-52"
+    ]
+  },
+  {
+    "key": "proper13",
+    "reading": [
+      "Exodus 16:2-15",
+      "Psalm 78:14-26",
+      "Ephesians 4:1-16",
+      "John 6:24-35"
+    ]
+  },
+  {
+    "key": "proper14",
+    "reading": [
+      "1 Kings 19:1-8",
+      "Psalm 34:1-8",
+      "Ephesians 4:17-25",
+      "John 6:35-51"
+    ]
+  },
+  {
+    "key": "proper15",
+    "reading": [
+      "Proverbs 9:1-6",
+      "Psalm 147:1-12",
+      "Ephesians 5:15-20",
+      "John 6:51-58"
+    ]
+  },
+  {
+    "key": "proper16",
+    "reading": [
+      "Joshua 24:1-25",
+      "Psalm 16",
+      "Ephesians 5:21-33",
+      "John 6:60-69"
+    ]
+  },
+  {
+    "key": "proper17",
+    "reading": [
+      "Deuteronomy 4:1-9",
+      "Psalm 15",
+      "Ephesians 6:10-20",
+      "Mark 7:1-23"
+    ]
+  },
+  {
+    "key": "proper18",
+    "reading": ["Isaiah 35:4-7", "Psalm 146", "James 1:17-27", "Mark 7:24-37"]
+  },
+  {
+    "key": "proper19",
+    "reading": ["Isaiah 50:4-9", "Psalm 116", "James 2:1-18", "Mark 8:27-38"]
+  },
+  {
+    "key": "proper20",
+    "reading": [
+      "Wisdom 1:16-2:22",
+      "Psalm 54",
+      "James 3:16-4:6",
+      "Mark 9:30-37"
+    ]
+  },
+  {
+    "key": "proper21",
+    "reading": [
+      "Numbers 11:4-29",
+      "Psalm 19:7-14",
+      "James 4:7-12",
+      "Mark 9:38-50"
+    ]
+  },
+  {
+    "key": "proper22",
+    "reading": ["Genesis 2:18-24", "Psalm 8", "Hebrews 2:1-18", "Mark 10:2-16"]
+  },
+  {
+    "key": "proper23",
+    "reading": [
+      "Amos 5:6-15",
+      "Psalm 90:1-12",
+      "Hebrews 3:1-19",
+      "Mark 10:17-31"
+    ]
+  },
+  {
+    "key": "proper24",
+    "reading": ["Amos 5:18-27", "Psalm 90", "Hebrews 4:12-16", "Mark 10:35-45"]
+  },
+  {
+    "key": "proper25",
+    "reading": [
+      "Jeremiah 31:7-34",
+      "Psalm 13",
+      "Hebrews 7:23-28",
+      "Mark 10:46-52"
+    ]
+  },
+  {
+    "key": "proper26",
+    "reading": [
+      "Deuteronomy 6:1-9",
+      "Psalm 119:1-16",
+      "Hebrews 9:11-28",
+      "Mark 12:28-34"
+    ]
+  },
+  {
+    "key": "proper27",
+    "reading": [
+      "1 Kings 17:8-16",
+      "Psalm 146",
+      "Hebrews 9:24-28",
+      "Mark 12:38-44"
+    ]
+  },
+  {
+    "key": "proper28",
+    "reading": [
+      "Daniel 12:1-13",
+      "Psalm 16",
+      "Hebrews 10:11-25",
+      "Mark 13:1-13"
+    ]
+  },
+  {
+    "key": "proper29",
+    "reading": [
+      "Jeremiah 23:1-6",
+      "Psalm 93",
+      "Colossians 1:13-20",
+      "Luke 23:35-43"
+    ]
+  },
+  {
+    "key": "allSaintsDay",
+    "reading": [
+      "Wisdom 3:1-9",
+      "Psalm 24",
+      "Revelation 7:9-17",
+      "Matthew 5:1-12"
+    ]
+  },
+  {
+    "key": "christTheKing",
+    "reading": [
+      "Jeremiah 23:1-6",
+      "Psalm 46",
+      "Colossians 1:13-20",
+      "Luke 23:35-43"
+    ]
+  }
+]

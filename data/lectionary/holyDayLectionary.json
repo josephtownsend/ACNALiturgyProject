@@ -1,0 +1,249 @@
+[
+  {
+    "key": "saintStephen",
+    "reading": [
+      "2 Chronicles 24:17-22",
+      "Psalm 118:19-24",
+      "Acts 6:8-7:2,51-60",
+      "Matthew 23:34-39"
+    ]
+  },
+  {
+    "key": "saintJohn",
+    "reading": ["Exodus 33:12-23", "Psalm 92", "1 John 1", "John 21:19-24"]
+  },
+  {
+    "key": "holyInnocents",
+    "reading": [
+      "Jeremiah 31:15-17",
+      "Psalm 124",
+      "Revelation 21:1-7",
+      "Matthew 2:13-18"
+    ]
+  },
+  {
+    "key": "circumcisionAndHolyName",
+    "reading": ["Numbers 6:22-27", "Psalm 8", "Galatians 4:4-7", "Luke 2:15-21"]
+  },
+  {
+    "key": "epiphany",
+    "reading": [
+      "Isaiah 60:1-9",
+      "Psalm 72:1-11",
+      "Ephesians 3:1-13",
+      "Matthew 2:1-12"
+    ]
+  },
+  {
+    "key": "confessionOfSaintPeter",
+    "reading": ["Acts 4:8-13", "Psalm 23", "1 Peter 5:1-4", "Matthew 16:13-19"]
+  },
+  {
+    "key": "conversionOfSaintPaul",
+    "reading": [
+      "Acts 26:9-21",
+      "Psalm 67",
+      "Galatians 1:11-24",
+      "Matthew 10:16-22"
+    ]
+  },
+  {
+    "key": "presentationOfChrist",
+    "reading": ["Malachi 3:1-4", "Psalm 84", "Hebrews 2:14-18", "Luke 2:22-40"]
+  },
+  {
+    "key": "saintMatthias",
+    "reading": ["1 Samuel 16:1-13", "Psalm 15", "Acts 1:15-26", "John 15:1-17"]
+  },
+  {
+    "key": "saintJoseph",
+    "reading": [
+      "2 Samuel 7:4,8-16",
+      "Psalm 89:1-29",
+      "Romans 4:13-18",
+      "Matthew 1:18-25"
+    ]
+  },
+  {
+    "key": "annunciation",
+    "reading": ["Isaiah 7:10-17", "Psalm 45", "Hebrews 10:5-10", "Luke 1:26-38"]
+  },
+  {
+    "key": "saintMark",
+    "reading": ["Isaiah 52:7-10", "Psalm 2", "Ephesians 4:7-16", "Mark 1:1-15"]
+  },
+  {
+    "key": "saintPhilipAndSaintJames",
+    "reading": [
+      "Isaiah 30:18-21",
+      "Psalm 119:33-40",
+      "2 Corinthians 4:1-6",
+      "John 14:6-14"
+    ]
+  },
+  {
+    "key": "visitation",
+    "reading": [
+      "Zephaniah 3:14-18",
+      "Psalm 113",
+      "Romans 12:9-16",
+      "Luke 1:39-56"
+    ]
+  },
+  {
+    "key": "saintBarnabas",
+    "reading": ["Isaiah 42:5-12", "Psalm 112", "Acts 11:19-30", "John 15:12-17"]
+  },
+  {
+    "key": "nativityOfSaintJohnTheBaptist",
+    "reading": ["Isaiah 40:1-11", "Psalm 85", "Acts 13:14b-26", "Luke 1:57-80"]
+  },
+  {
+    "key": "saintPeterAndSaintPaul",
+    "reading": [
+      "Ezekiel 34:11-16",
+      "Psalm 87",
+      "2 Timothy 4:1-8",
+      "John 21:15-19"
+    ]
+  },
+  {
+    "key": "saintMaryMagdalene",
+    "readingDefault": [
+      "Judith 9:1,11-14",
+      "Psalm 42",
+      "2 Corinthians 5:14-18",
+      "John 20:11-18"
+    ],
+    "readingAlternate": [
+      "Song of Solomon 3:1-4",
+      "Psalm 42",
+      "2 Corinthians 5:14-18",
+      "John 20:11-18"
+    ]
+  },
+  {
+    "key": "saintJames",
+    "reading": [
+      "1 Kings 19:9-18",
+      "Psalm 7:1-10",
+      "Acts 12:1-11",
+      "Mark 10:35-45"
+    ]
+  },
+  {
+    "key": "transfiguration",
+    "reading": [
+      "Exodus 34:29-35",
+      "Psalm 99",
+      "2 Peter 1:13-21",
+      "Luke 9:28-36"
+    ]
+  },
+  {
+    "key": "saintMaryTheVirgin",
+    "reading": [
+      "Isaiah 61:10-11",
+      "Psalm 34:1-9",
+      "Galatians 4:4-7",
+      "Luke 1:46-55"
+    ]
+  },
+  {
+    "key": "saintBartholomew",
+    "reading": [
+      "Deuteronomy 18:15-18",
+      "Psalm 91",
+      "1 Corinthians 4:9-16",
+      "Luke 22:24-30"
+    ]
+  },
+  {
+    "key": "holyCrossDay",
+    "reading": [
+      "Numbers 21:4-9",
+      "Psalm 98",
+      "1 Corinthians 1:18-24",
+      "John 12:31-36"
+    ]
+  },
+  {
+    "key": "saintMatthew",
+    "reading": [
+      "Proverbs 3:1-6",
+      "Psalm 119:33-40",
+      "2 Corinthians 4:1-6",
+      "Matthew 9:9-13"
+    ]
+  },
+  {
+    "key": "holyMichaelAndAllAngels",
+    "reading": [
+      "Daniel 10:10-21",
+      "Psalm 103",
+      "Revelation 12:7-12",
+      "Matthew 18:1-11"
+    ]
+  },
+  {
+    "key": "saintLuke",
+    "readingDefault": [
+      "Ecclesiasticus 38:1-14",
+      "Psalm 147:1-7",
+      "2 Timothy 4:5-13",
+      "Luke 4:14-21"
+    ],
+    "readingAlternateFirstLesson": [
+      "Isaiah 35:1-6",
+      "Psalm 147:1-7",
+      "2 Timothy 4:5-13",
+      "Luke 4:14-21"
+    ]
+  },
+  {
+    "key": "saintJamesOfJerusalem",
+    "reading": ["Acts 15:12-22", "Psalm 1", "James 1:1-12", "Matthew 13:54-58"]
+  },
+  {
+    "key": "saintSimonAndSaintJude",
+    "reading": [
+      "Deuteronomy 32:1-4",
+      "Psalm 119:89-96",
+      "Ephesians 2:13-22",
+      "John 14:15-31"
+    ]
+  },
+  {
+    "key": "allSaintsDay",
+    "readingDefault": [
+      "Wisdom 3:1-9",
+      "Psalm 24",
+      "Revelation 7:9-17",
+      "Matthew 5:1-12"
+    ],
+    "readingAlternateFirstLesson": [
+      "Ecclesiasticus 44:1-14",
+      "Psalm 24",
+      "Revelation 7:9-17",
+      "Matthew 5:1-12"
+    ]
+  },
+  {
+    "key": "saintAndrew",
+    "reading": [
+      "Deuteronomy 30:11-14",
+      "Psalm 19",
+      "Romans 10:8-18",
+      "Matthew 4:18-22"
+    ]
+  },
+  {
+    "key": "saintThomas",
+    "reading": [
+      "Habakkuk 2:1-4",
+      "Psalm 126",
+      "Hebrews 10:35-11:1",
+      "John 14:1-7"
+    ]
+  }
+]
