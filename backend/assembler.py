@@ -50,18 +50,7 @@ def determineLectionaryYear(givenDate):
         return 'B'
     else:
         return 'C'
-    year = givenDate.year
-    adventStart = firstSundayOfAdvent(year)
-    if givenDate < adventStart:
-        year -= 1
-    remainder = year % 3
-    if remainder == 0:
-        return 'A'
-    elif remainder == 1:
-        return 'B'
-    else:
-        return 'C'
-
+    
 def lookupLessonReadings(givenDate, calendarInfo):
     label = calendarInfo['feastOrSeasonName']
     print(f"DEBUG: Label = {label}")
@@ -123,56 +112,7 @@ def lookupLessonReadings(givenDate, calendarInfo):
     print("DEBUG: No matching lessons found. Using default fallback.")
     return ["Lesson 1", "Psalm", "Epistle", "Gospel"]
 
-    label = calendarInfo['feastOrSeasonName']
-
-    feastMapping = {
-        'Christmas': 'christmasDay',
-        'Epiphany': 'epiphany',
-        'All Saints': 'allSaintsDay',
-        'Ash Wednesday': 'ashWednesday',
-        'Palm Sunday': 'palmSunday',
-        'Easter': 'easterDay',
-        'Ascension': 'ascensionDay',
-        'Pentecost': 'dayOfPentecost',
-        'Trinity Sunday': 'trinitySunday',
-        'Circumcision and Holy Name': 'circumcisionAndHolyName',
-        'Confession of St. Peter': 'confessionOfSaintPeter',
-        'Conversion of St. Paul': 'conversionOfSaintPaul',
-        'Presentation of Christ in the Temple': 'presentationOfChrist',
-    }
-
-    mappedKey = feastMapping.get(label)
-
-    year = determineLectionaryYear(givenDate)
-    if year == 'A':
-        lectionary = yearALectionary
-    elif year == 'B':
-        lectionary = yearBLectionary
-    else:
-        lectionary = yearCLectionary
-
-    # 1. Try holy day lectionary using mapped key
-    if mappedKey:
-        for entry in holyDayLectionary:
-            if entry['key'].lower() == mappedKey.lower():
-                return entry.get('reading') or entry.get('readingDefault')
-
-    # 2. Try year lectionary using mapped key
-    if mappedKey:
-        for entry in lectionary:
-            if entry['key'].lower() == mappedKey.lower():
-                return entry.get('reading') or entry.get('readingDefault')
-
-    # 3. Fallback: normalize label and search year lectionary
-    normalizedLabel = label.lower().replace(' ', '').replace('sunday', '').replace('day', '')
-
-    for entry in lectionary:
-        if entry['key'].lower() == normalizedLabel:
-            return entry.get('reading') or entry.get('readingDefault')
-
-    return ["Lesson 1", "Psalm", "Epistle", "Gospel"]
-
-# --- Service Assembler ---
+    # --- Service Assembler ---
 
 def assembleService(givenDate):
     calendarInfo = getLiturgicalDayDetailed(givenDate)
@@ -223,7 +163,7 @@ def assembleService(givenDate):
 
 # --- Example Usage ---
 if __name__ == '__main__':
-    testDate = date(2024, 12, 25)  # Example: Christmas Day
+    testDate = date(2032, 6, 27)  # Example: Christmas Day
     service = assembleService(testDate)
 
     outputLines = []
